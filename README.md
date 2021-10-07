@@ -1,6 +1,9 @@
 ## Hello World, I'm Felipe!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
 … Back-End Developer 👩‍💻
+
+https://ilegra.com/
+https://www.maisprati.com.br/
  
 Lover of Technology and Coding 💓
  
