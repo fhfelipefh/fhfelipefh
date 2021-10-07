@@ -2,7 +2,7 @@
  
 … Back-End Developer 👩‍💻
 
-Working... https://ilegra.com/ <br>
+I work at https://ilegra.com/ <br>
 
 https://www.maisprati.com.br/ <br>
  
