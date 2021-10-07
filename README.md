@@ -2,8 +2,8 @@
  
 … Back-End Developer 👩‍💻
 
-https://ilegra.com/
-https://www.maisprati.com.br/
+https://ilegra.com/ <br>
+https://www.maisprati.com.br/ <br>
  
 Lover of Technology and Coding 💓
  
