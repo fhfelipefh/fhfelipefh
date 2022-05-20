@@ -11,7 +11,6 @@ Lover of Technology and Coding 💓
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hellenmas)](https://github.com/fhfelipefh)
 
-## Languages and Tools:
 [![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=fhfelipefh)](https://github.com/fhfelipefh/github-readme-stats)
 
 
