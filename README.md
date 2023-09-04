@@ -2,8 +2,6 @@
  
 … Back-End Developer 👩‍💻
 
-I work at https://ilegra.com/ <br>
-
 https://www.maisprati.com.br/ <br>
  
 Lover of Technology and Coding 💓
